@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" > 
+
+ <suite name="SUITE" verbose="1">
+  <test name="ORMS_As_suite">
+    <classes>
+      <class name="com.hrms.as.TC001_Login_Logout"/>
+      <class name="com.hrms.as.TC002_AddEmployee"/>
+      <class name="com.hrms.as.TC003_DeleteEmployee"/>
+      <class name="com.hrms.as.TC004_EditEmployee"/>
+    </classes>
+  </test>
+</suite>

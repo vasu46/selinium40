@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [SUITE]">
+  <test parallel="none" name="ORMS_As_suite(failed)">
+    <classes>
+      <class name="com.hrms.as.TC004_EditEmployee">
+        <methods>
+          <include name="edit"/>
+        </methods>
+      </class> <!-- com.hrms.as.TC004_EditEmployee -->
+    </classes>
+  </test> <!-- ORMS_As_suite(failed) -->
+</suite> <!-- Failed suite [SUITE] -->

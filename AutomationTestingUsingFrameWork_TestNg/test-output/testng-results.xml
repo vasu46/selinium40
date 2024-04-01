@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Chrome driver is open]]>
+    </line>
+    <line>
+      <![CDATA[URL IS Entered]]>
+    </line>
+    <line>
+      <![CDATA[Application is Open]]>
+    </line>
+    <line>
+      <![CDATA[The Title is Matched:]]>
+    </line>
+    <line>
+      <![CDATA[USER Loging is SuccessFull]]>
+    </line>
+    <line>
+      <![CDATA[Application will be Logout sucessfull]]>
+    </line>
+    <line>
+      <![CDATA[Application  is Closed]]>
+    </line>
+    <line>
+      <![CDATA[Chrome driver is open]]>
+    </line>
+    <line>
+      <![CDATA[URL IS Entered]]>
+    </line>
+    <line>
+      <![CDATA[Application is Open]]>
+    </line>
+    <line>
+      <![CDATA[The Title is Matched:]]>
+    </line>
+    <line>
+      <![CDATA[USER Loging is SuccessFull]]>
+    </line>
+    <line>
+      <![CDATA[The Title is Matched:]]>
+    </line>
+    <line>
+      <![CDATA[enterd into the FRAME]]>
+    </line>
+    <line>
+      <![CDATA[Add new Employee SucessFull]]>
+    </line>
+    <line>
+      <![CDATA[enterd into the FRAME]]>
+    </line>
+    <line>
+      <![CDATA[Application will be Logout sucessfull]]>
+    </line>
+    <line>
+      <![CDATA[Application  is Closed]]>
+    </line>
+    <line>
+      <![CDATA[Chrome driver is open]]>
+    </line>
+    <line>
+      <![CDATA[URL IS Entered]]>
+    </line>
+    <line>
+      <![CDATA[Application is Open]]>
+    </line>
+    <line>
+      <![CDATA[USER Loging is SuccessFull]]>
+    </line>
+    <line>
+      <![CDATA[enterd into the FRAME]]>
+    </line>
+    <line>
+      <![CDATA[Chrome driver is open]]>
+    </line>
+    <line>
+      <![CDATA[URL IS Entered]]>
+    </line>
+    <line>
+      <![CDATA[Application is Open]]>
+    </line>
+    <line>
+      <![CDATA[The Title is Matched:]]>
+    </line>
+    <line>
+      <![CDATA[USER Loging is SuccessFull]]>
+    </line>
+    <line>
+      <![CDATA[The Title is Matched:]]>
+    </line>
+    <line>
+      <![CDATA[enterd into the FRAME]]>
+    </line>
+    <line>
+      <![CDATA[Add new Employee SucessFull]]>
+    </line>
+    <line>
+      <![CDATA[Edit Employee is SuccessFull]]>
+    </line>
+    <line>
+      <![CDATA[enterd into the FRAME]]>
+    </line>
+    <line>
+      <![CDATA[Application will be Logout sucessfull]]>
+    </line>
+    <line>
+      <![CDATA[Application  is Closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-04-01T15:55:05Z" name="SUITE" finished-at="2024-04-01T15:56:36Z" duration-ms="91008">
+    <groups>
+    </groups>
+    <test started-at="2024-04-01T15:55:05Z" name="ORMS_As_suite" finished-at="2024-04-01T15:56:36Z" duration-ms="91008">
+      <class name="com.hrms.as.TC002_AddEmployee">
+        <test-method signature="AddEmp()[pri:0, instance:com.hrms.as.TC002_AddEmployee@fa36558]" started-at="2024-04-01T21:25:27Z" name="AddEmp" finished-at="2024-04-01T21:25:44Z" duration-ms="17195" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome driver is open]]>
+            </line>
+            <line>
+              <![CDATA[URL IS Entered]]>
+            </line>
+            <line>
+              <![CDATA[Application is Open]]>
+            </line>
+            <line>
+              <![CDATA[The Title is Matched:]]>
+            </line>
+            <line>
+              <![CDATA[USER Loging is SuccessFull]]>
+            </line>
+            <line>
+              <![CDATA[The Title is Matched:]]>
+            </line>
+            <line>
+              <![CDATA[enterd into the FRAME]]>
+            </line>
+            <line>
+              <![CDATA[Add new Employee SucessFull]]>
+            </line>
+            <line>
+              <![CDATA[enterd into the FRAME]]>
+            </line>
+            <line>
+              <![CDATA[Application will be Logout sucessfull]]>
+            </line>
+            <line>
+              <![CDATA[Application  is Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AddEmp -->
+      </class> <!-- com.hrms.as.TC002_AddEmployee -->
+      <class name="com.hrms.as.TC001_Login_Logout">
+        <test-method signature="Login()[pri:0, instance:com.hrms.as.TC001_Login_Logout@672872e1]" started-at="2024-04-01T21:25:05Z" name="Login" finished-at="2024-04-01T21:25:27Z" duration-ms="21163" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome driver is open]]>
+            </line>
+            <line>
+              <![CDATA[URL IS Entered]]>
+            </line>
+            <line>
+              <![CDATA[Application is Open]]>
+            </line>
+            <line>
+              <![CDATA[The Title is Matched:]]>
+            </line>
+            <line>
+              <![CDATA[USER Loging is SuccessFull]]>
+            </line>
+            <line>
+              <![CDATA[Application will be Logout sucessfull]]>
+            </line>
+            <line>
+              <![CDATA[Application  is Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- com.hrms.as.TC001_Login_Logout -->
+      <class name="com.hrms.as.TC004_EditEmployee">
+        <test-method signature="edit()[pri:0, instance:com.hrms.as.TC004_EditEmployee@32910148]" started-at="2024-04-01T21:26:05Z" name="edit" finished-at="2024-04-01T21:26:36Z" duration-ms="31699" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome driver is open]]>
+            </line>
+            <line>
+              <![CDATA[URL IS Entered]]>
+            </line>
+            <line>
+              <![CDATA[Application is Open]]>
+            </line>
+            <line>
+              <![CDATA[The Title is Matched:]]>
+            </line>
+            <line>
+              <![CDATA[USER Loging is SuccessFull]]>
+            </line>
+            <line>
+              <![CDATA[The Title is Matched:]]>
+            </line>
+            <line>
+              <![CDATA[enterd into the FRAME]]>
+            </line>
+            <line>
+              <![CDATA[Add new Employee SucessFull]]>
+            </line>
+            <line>
+              <![CDATA[Edit Employee is SuccessFull]]>
+            </line>
+            <line>
+              <![CDATA[enterd into the FRAME]]>
+            </line>
+            <line>
+              <![CDATA[Application will be Logout sucessfull]]>
+            </line>
+            <line>
+              <![CDATA[Application  is Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- edit -->
+      </class> <!-- com.hrms.as.TC004_EditEmployee -->
+      <class name="com.hrms.as.TC003_DeleteEmployee">
+        <test-method signature="del_Emp()[pri:0, instance:com.hrms.as.TC003_DeleteEmployee@610f7aa]" started-at="2024-04-01T21:25:44Z" name="del_Emp" finished-at="2024-04-01T21:26:05Z" duration-ms="20935" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome driver is open]]>
+            </line>
+            <line>
+              <![CDATA[URL IS Entered]]>
+            </line>
+            <line>
+              <![CDATA[Application is Open]]>
+            </line>
+            <line>
+              <![CDATA[USER Loging is SuccessFull]]>
+            </line>
+            <line>
+              <![CDATA[enterd into the FRAME]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- del_Emp -->
+      </class> <!-- com.hrms.as.TC003_DeleteEmployee -->
+    </test> <!-- ORMS_As_suite -->
+  </suite> <!-- SUITE -->
+</testng-results>
