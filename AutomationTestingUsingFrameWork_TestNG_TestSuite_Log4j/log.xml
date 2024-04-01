@@ -1,0 +1,164 @@
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799890850" level="INFO" thread="main">
+<log4j:message><![CDATA[com.nt.lib.General::Log4j setup is ready]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799900738" level="INFO" thread="main">
+<log4j:message><![CDATA[Chrome Driver is Open]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799902186" level="INFO" thread="main">
+<log4j:message><![CDATA[URL IS ENETRED]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799902187" level="INFO" thread="main">
+<log4j:message><![CDATA[Application is Open]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799902220" level="INFO" thread="main">
+<log4j:message><![CDATA[the Title is matched]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799904566" level="INFO" thread="main">
+<log4j:message><![CDATA[User login is successfull]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799904682" level="INFO" thread="main">
+<log4j:message><![CDATA[Application will be logout successFull]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799904936" level="DEBUG" thread="main">
+<log4j:message><![CDATA[Application is Closed]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799906668" level="INFO" thread="main">
+<log4j:message><![CDATA[Chrome Driver is Open]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799909878" level="INFO" thread="main">
+<log4j:message><![CDATA[URL IS ENETRED]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799909878" level="INFO" thread="main">
+<log4j:message><![CDATA[Application is Open]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799909907" level="INFO" thread="main">
+<log4j:message><![CDATA[the Title is matched]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799911324" level="INFO" thread="main">
+<log4j:message><![CDATA[User login is successfull]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799911350" level="INFO" thread="main">
+<log4j:message><![CDATA[the Title is matched]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799912622" level="INFO" thread="main">
+<log4j:message><![CDATA[Entered into the frame]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799915200" level="INFO" thread="main">
+<log4j:message><![CDATA[Add new Employee Successfull]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799929384" level="INFO" thread="main">
+<log4j:message><![CDATA[Chrome Driver is Open]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799934154" level="INFO" thread="main">
+<log4j:message><![CDATA[URL IS ENETRED]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799934154" level="INFO" thread="main">
+<log4j:message><![CDATA[Application is Open]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799935826" level="INFO" thread="main">
+<log4j:message><![CDATA[User login is successfull]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799935894" level="INFO" thread="main">
+<log4j:message><![CDATA[Entered into the frame]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799947119" level="INFO" thread="main">
+<log4j:message><![CDATA[Chrome Driver is Open]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799950184" level="INFO" thread="main">
+<log4j:message><![CDATA[URL IS ENETRED]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799950184" level="INFO" thread="main">
+<log4j:message><![CDATA[Application is Open]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799950229" level="INFO" thread="main">
+<log4j:message><![CDATA[the Title is matched]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799952964" level="INFO" thread="main">
+<log4j:message><![CDATA[User login is successfull]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799953035" level="INFO" thread="main">
+<log4j:message><![CDATA[the Title is matched]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799956888" level="INFO" thread="main">
+<log4j:message><![CDATA[Entered into the frame]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799959944" level="INFO" thread="main">
+<log4j:message><![CDATA[Add new Employee Successfull]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799962187" level="INFO" thread="main">
+<log4j:message><![CDATA[Edit Employee is Sucessfull]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799962201" level="INFO" thread="main">
+<log4j:message><![CDATA[exit into the frame]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799962291" level="INFO" thread="main">
+<log4j:message><![CDATA[Application will be logout successFull]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799963220" level="DEBUG" thread="main">
+<log4j:message><![CDATA[Application is Closed]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799980450" level="INFO" thread="main">
+<log4j:message><![CDATA[Chrome Driver is Open]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799984820" level="INFO" thread="main">
+<log4j:message><![CDATA[URL IS ENETRED]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799984820" level="INFO" thread="main">
+<log4j:message><![CDATA[Application is Open]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799984851" level="INFO" thread="main">
+<log4j:message><![CDATA[the Title is matched]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799987540" level="INFO" thread="main">
+<log4j:message><![CDATA[User login is successfull]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799996545" level="INFO" thread="main">
+<log4j:message><![CDATA[Entered into the frame]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711799998892" level="INFO" thread="main">
+<log4j:message><![CDATA[Add Company Loaction is SuccessFull]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.hrms.lib.General" timestamp="1711800003336" level="DEBUG" thread="main">
+<log4j:message><![CDATA[Application is Closed]]></log4j:message>
+</log4j:event>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [HrmsTc01ToTC05]" verbose="2">
+  <test parallel="none" name="HrmsExcecution1(failed)">
+    <classes>
+      <class name="com.hrms.as.TC002_AddEmployee">
+        <methods>
+          <include name="TC002"/>
+        </methods>
+      </class> <!-- com.hrms.as.TC002_AddEmployee -->
+      <class name="com.hrms.as.TC004_EditEmployee">
+        <methods>
+          <include name="TC04"/>
+        </methods>
+      </class> <!-- com.hrms.as.TC004_EditEmployee -->
+    </classes>
+  </test> <!-- HrmsExcecution1(failed) -->
+</suite> <!-- Failed suite [HrmsTc01ToTC05] -->
