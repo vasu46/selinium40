@@ -2,8 +2,8 @@ package com.nt.auto_pra;
  
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.By;
 
 public class TC001_Login_Logout {
 
@@ -13,7 +13,8 @@ public class TC001_Login_Logout {
 	   //enetr url
 		driver.navigate().to("http://183.82.103.245/nareshit/login.php");
 		//enter username
-		driver.findElement(By.name("txtUserName")).sendKeys("nareshit");
+		WebElement ele=driver.findElement(By.name("txtUserName"));
+		  ele.sendKeys("nareshit");
 		//enetr the password
 		driver.findElement(By.name("txtPassword")).sendKeys("nareshit");
 		//click on Login Button

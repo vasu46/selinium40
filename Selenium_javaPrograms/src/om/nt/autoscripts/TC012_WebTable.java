@@ -9,7 +9,7 @@ public class TC012_WebTable {
 	public static void main(String[] args) {
 		WebDriver driver=new ChromeDriver();
 		//1.enetr the url
-		driver.navigate().to("file:///G:/WebTable.html");
+		driver.navigate().to("G:/WebTable.html");
 		//count Row Number
 		int rows=driver.findElements(By.xpath("//*[@id=\"idCourse\"]/tbody/tr")).size();
 		int colsCount=driver.findElements(By.xpath("//*[@id=\"idCourse\"]/tbody/tr[1]/td")).size();
