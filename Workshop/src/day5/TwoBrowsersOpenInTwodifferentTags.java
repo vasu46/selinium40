@@ -12,7 +12,7 @@ public class TwoBrowsersOpenInTwodifferentTags {
 			 driver.switchTo().newWindow(WindowType.TAB);
 			driver.switchTo().newWindow(WindowType.WINDOW);
 			//driver.get("https://www.opencart.com/index.php?route=cms/demo");
-			
+			System.out.println("vasis");
 			
 			 
 		
